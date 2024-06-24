@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2024-06-24T09:28:42.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XD8CXlK29GnBz0XxwZJ6" version="24.6.2" type="github">
+  <diagram name="Page-1" id="uHOV2unDq3uZV0j1iJmc">
+    <mxGraphModel dx="1050" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0RcyEQ_4CpZkvhOZ5JH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-US&quot;&gt;Applicant submits form to &lt;a href=&quot;mailto:FAIRmat@physik.hu-berlin.de&quot;&gt;FAIRmat@physik.hu-berlin.de&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;" link="&#xa;&#xa;&#xa;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&#xa;mso-fareast-font-family:&amp;quot;Titillium Web&amp;quot;;mso-bidi-font-family:&amp;quot;Titillium Web&amp;quot;;&#xa;mso-ansi-language:EN-US&quot;&gt;&lt;span style=&quot;mso-list:Ignore&quot;&gt;1.&lt;span style=&quot;font:7.0pt &amp;quot;Times New Roman&amp;quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&#xa;mso-ansi-language:EN-US&quot;&gt;Applicant submits form to &lt;a href=&quot;mailto:FAIRmat@physik.hu-berlin.de&quot;&gt;FAIRmat@physik.hu-berlin.de&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" id="Q0RcyEQ_4CpZkvhOZ5JH-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="200" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0RcyEQ_4CpZkvhOZ5JH-4" target="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-4" value="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-US&quot;&gt;Processing of forms&lt;/span&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="720" height="520" as="geometry">
+            <mxRectangle x="80" y="130" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4" source="Q0RcyEQ_4CpZkvhOZ5JH-7" target="Q0RcyEQ_4CpZkvhOZ5JH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-7" value="&lt;p style=&quot;margin-left:72.0pt;mso-add-space:auto;&lt;br/&gt;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Titillium Web&amp;quot;;mso-bidi-font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-US&quot;&gt;a.&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-US&quot;&gt;Acknowledge receipt of the request form (SR)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4">
+          <mxGeometry x="40" y="40" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4" source="Q0RcyEQ_4CpZkvhOZ5JH-8" target="Q0RcyEQ_4CpZkvhOZ5JH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-8" value="&lt;p style=&quot;margin-left:72.0pt;mso-add-space:auto;&lt;br/&gt;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-US&quot;&gt;Download the form to the shared &quot;Submitted&quot; folder (SR)&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4">
+          <mxGeometry x="27.5" y="140" width="645" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4" source="Q0RcyEQ_4CpZkvhOZ5JH-12" target="Q0RcyEQ_4CpZkvhOZ5JH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-12" value="&lt;p style=&quot;margin-left:72.0pt;mso-add-space:auto;&lt;br/&gt;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-US&quot;&gt;Rename the event request according to the standard&lt;br&gt;format: (Submission-date_Area_Applicant-Lastname_Eventname_Event-start-date_&quot;P_or_O&quot;)&lt;br&gt;(JS)&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4">
+          <mxGeometry x="50" y="240" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4" source="Q0RcyEQ_4CpZkvhOZ5JH-14" target="Q0RcyEQ_4CpZkvhOZ5JH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-14" value="&lt;p style=&quot;margin-left:72.0pt;mso-add-space:auto;&lt;br/&gt;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-US&quot;&gt;Transfer the information from each form into the overview Excel sheet (JS)&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4">
+          <mxGeometry x="40" y="340" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-16" value="&lt;span style=&quot;font-size:12.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Titillium Web&amp;quot;;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Present the summary of the requests in the meeting (SR)&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-4">
+          <mxGeometry x="40" y="440" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-19" value="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Titillium Web&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-US&quot;&gt;Initial assessment&lt;/span&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="730" width="720" height="520" as="geometry">
+            <mxRectangle x="80" y="130" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19" source="Q0RcyEQ_4CpZkvhOZ5JH-21" target="Q0RcyEQ_4CpZkvhOZ5JH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-21" value="&lt;p style=&quot;margin: 0cm 0cm 0cm 30px; text-indent: -18pt;&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Titillium Web&amp;quot;;mso-bidi-font-family:Calibri;color:black&quot;&gt;Verify that participation in the event aligns with FAIRmat&#39;s mission and current strategy &lt;i&gt;(&lt;b&gt;Area F&lt;/b&gt;)&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry x="65" y="140" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19" source="Q0RcyEQ_4CpZkvhOZ5JH-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-23" value="&lt;p style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;&lt;br/&gt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Titillium Web&amp;quot;;&quot;&gt;a.&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Titillium Web&amp;quot;;&quot;&gt;Ensure&lt;br/&gt;the event does not conflict in time or location with other FAIRmat events &lt;i&gt;(&lt;b&gt;Area&lt;br/&gt;F&lt;/b&gt;)&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry x="27.5" y="243" width="322.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="403" as="sourcePoint" />
+            <mxPoint x="360" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-25" value="&lt;p style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;&lt;br/&gt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Titillium Web&amp;quot;;&quot;&gt;a.&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Titillium Web&amp;quot;;&quot;&gt;Clarify&lt;br/&gt;Area F role in the event organization, and evaluate the capacity to support the&lt;br/&gt;organizations. (Area F)&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry x="50" y="240" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="503" as="sourcePoint" />
+            <mxPoint x="350" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-27" value="&lt;p style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;&lt;br/&gt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Titillium Web&amp;quot;;&quot;&gt;a.&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Titillium Web&amp;quot;;&quot;&gt;Confirm&lt;br/&gt;that the budget to cover event costs is available and can be allocated &lt;i&gt;(&lt;b&gt;Area&lt;br/&gt;G&lt;/b&gt;)&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry x="40" y="340" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-28" value="&lt;p style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;&lt;br/&gt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Titillium Web&amp;quot;;&quot;&gt;a.&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Titillium Web&amp;quot;;&quot;&gt;Ensure&lt;br/&gt;the requested budget complies with HU guidelines &lt;i&gt;(&lt;b&gt;Area G&lt;/b&gt;)&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry x="40" y="440" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19" source="Q0RcyEQ_4CpZkvhOZ5JH-31" target="Q0RcyEQ_4CpZkvhOZ5JH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-31" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=titillium+web&quot; face=&quot;titillium web&quot;&gt;Area F&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry x="160" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-33" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=titillium+web&quot; face=&quot;titillium web&quot;&gt;Area G&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="Q0RcyEQ_4CpZkvhOZ5JH-19">
+          <mxGeometry x="440" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0RcyEQ_4CpZkvhOZ5JH-30" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1033" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
